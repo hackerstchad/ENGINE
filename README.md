@@ -117,6 +117,4 @@ Modifiez `config.py` pour ajuster :
 - requests
 - python-dateutil
 
-## Licence
 
-Projet éducatif généré par CodePal.
